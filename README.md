@@ -1,2 +1,2 @@
-# Stopwatch_App
+# Stopwatch App
 Basic stopwatch Android app
